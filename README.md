@@ -8,4 +8,4 @@ It is my deployed project (link for ms azure)
 #Azure link https://proud-pebble-03fe1a510.3.azurestaticapps.net/
 
 
-<img src="s1.jpg" alt="Girl in a jacket" width="800" height="450">
+<img src="s1.jpg" alt="Girl in a jacket" width="947" height="445">
