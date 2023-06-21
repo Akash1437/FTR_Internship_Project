@@ -9,3 +9,21 @@ It is my deployed project (link for ms azure)
 
 
 <img src="s1.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s2.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s3.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s4.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s5.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s5_chatbot.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s6.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s8.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s9.jpg" alt="Girl in a jacket" width="947" height="445">
+<br>
+<img src="s10.jpg" alt="Girl in a jacket" width="947" height="445">
