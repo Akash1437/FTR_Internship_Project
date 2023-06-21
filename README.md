@@ -1,7 +1,7 @@
 # FTR_Internship_Project
 This is my Final Project for Microsoft Future Ready Talent Internship.
 <br>
-I used Microsoft Azure Static web Service and backend Storage for this project.
+I used Microsoft Azure Static web Service, backend Storage, and Azure Chatbot Service for this project.
 <br>
 It is my deployed project (link for ms azure)
 <br>
