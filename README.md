@@ -1,7 +1,7 @@
 # FTR_Internship_Project
 This is my Final Project for Microsoft Future Ready Talent Internship.
 <br>
-I used Microsoft Azure Static <b>Static Web Apps Service</b> and <b>Azure Bot Service</b> for this project.
+I used Microsoft Azure <b>Static Web Apps Service</b> and <b>Bot Service</b> for this project.
 <br>
 It is my deployed project (link for ms azure)
 <br>
